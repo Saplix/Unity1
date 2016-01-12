@@ -16,7 +16,6 @@ public class EnemyShot : MonoBehaviour {
 		nextFire = Time.time + fireRate;
 	}
 	
-	
 	// Update is called once per frame
 	void Update () 
 	{
